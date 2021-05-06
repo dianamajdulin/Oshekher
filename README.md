@@ -20,11 +20,11 @@
 
 ### 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <div style="display-flex">
-<a href="https://twitter.com/PurityWasHere"> <img align="left" width="48px" src="https://github.com/Oshekher/Oshekher/blob/main/twitter.png" title="Telegram"/></a>
-<a href="https://youtube.com/channel/UC4j-m2uCBfeD_1w_jPbGFng"> <img align="left" width="48px" src="https://github.com/Oshekher/Oshekher/blob/main/youtube.png" title="Telegram"/></a>
+<a href="https://twitter.com/PurityWasHere"> <img align="left" width="46px" src="https://github.com/Oshekher/Oshekher/blob/main/twitter.png" title="Telegram"/></a>
+<a href="https://youtube.com/channel/UC4j-m2uCBfeD_1w_jPbGFng"> <img align="left" width="46px" src="https://github.com/Oshekher/Oshekher/blob/main/youtube.png" title="Telegram"/></a>
 <a href="https://t.me/PurityWasHere"> <img align="left" width="48px" src="https://github.com/Oshekher/Oshekher/blob/main/telegram.png" title="Telegram"/></a>
-<a href="https://connectvip.eu/"> <img align="left" width="48px" src="https://github.com/Oshekher/Oshekher/blob/main/internet.png" title="Telegram"/></a>
-<a href="mailto: omeepd009@gmail.com"> <img align="left" width="48px" src="https://github.com/Oshekher/Oshekher/blob/main/email.png" title="Email"/> </a><br>
+<a href="https://connectvip.eu/"> <img align="left" width="46px" src="https://github.com/Oshekher/Oshekher/blob/main/internet.png" title="Telegram"/></a>
+<a href="mailto: omeepd009@gmail.com"> <img align="left" width="46px" src="https://github.com/Oshekher/Oshekher/blob/main/email.png" title="Email"/> </a><br>
 </div>&nbsp;
 &nbsp;
 &nbsp;
