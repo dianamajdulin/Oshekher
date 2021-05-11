@@ -12,11 +12,10 @@
 ------------------------------------------  
 ### Projects  
 1) [jiosaavn.ml](https://www.jiosaavn.ml/)
-2) [torrentsearch.ml](https://www.torrentsearch.ml/)
-3) [ytmods.ga](https://ytmods.ga)
-4) [jiosaavn-api](https://jiosaavn-alpha.vercel.app/)
-5) [onepiece.ml](https://onepiece.ml)
-6) [cc gen](https://connectvip.online/en/)
+2) [ytmods.ga](https://ytmods.ga)
+3) [jiosaavn-api](https://jiosaavn-alpha.vercel.app/)
+4) [onepiece.ml](https://onepiece.ml)
+5) [cc gen](https://connectvip.online/en/)
 ------------------------------------------  
 
 ### 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -24,7 +23,7 @@
 <a href="https://twitter.com/PurityWasHere"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/twitter.png" title="Telegram"/></a>
 <a href="https://youtube.com/channel/UC4j-m2uCBfeD_1w_jPbGFng"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/youtube.png" title="Telegram"/></a>
 <a href="https://t.me/PurityWasHere"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/telegram.png" title="Telegram"/></a>
-<a href="https://connectvip.eu/"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/internet.png" title="Telegram"/></a>
+<a href="https://puritywashere.cf/"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/internet.png" title="Telegram"/></a>
 <a href="mailto: omeepd009@gmail.com"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/email.png" title="Email"/> </a><br>
 </div>&nbsp;
 &nbsp;
