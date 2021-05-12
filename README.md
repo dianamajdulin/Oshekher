@@ -9,6 +9,8 @@
 - 🔭 I’m currently working on various projects
 - 🌱 I’m currently learning Web Development
 
+------------------------------------------
+[![trophy](https://github-profile-trophy.vercel.app/?username=Oshekher)](https://puritywashere.cf)
 ------------------------------------------  
 ### Projects  
 1) [jiosaavn.ml](https://www.jiosaavn.ml/)
