@@ -1,7 +1,7 @@
 ### Hi there 👋 , Saksham Here!
 
 
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oshekher&show_icons=true&theme=dracula&title_color=CDE545&count_private=true&icon_color=CDE545&hide=["issues"])
+![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Oshekher&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <p align="left"> </p>
 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Web Development
 
 ------------------------------------------
-[![trophy](https://github-profile-trophy.vercel.app/?username=Oshekher)](https://puritywashere.cf)
+[![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=Oshekher&layout=compact)](https://puritywashere.cf)
 ------------------------------------------  
 
 ### 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -23,7 +23,3 @@
 </div>&nbsp;
 &nbsp;
 &nbsp;
-
--------------------------------------------
-
-<img style="align-center" src="https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=Oshekher&layout=compact&show_icons=true&theme=dracula&title_color=CDE545&count_private=true&icon_color=CDE545">
