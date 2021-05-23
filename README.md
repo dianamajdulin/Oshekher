@@ -12,13 +12,6 @@
 ------------------------------------------
 [![trophy](https://github-profile-trophy.vercel.app/?username=Oshekher)](https://puritywashere.cf)
 ------------------------------------------  
-### Projects  
-1) [jiosaavn.ml](https://www.jiosaavn.ml/)
-2) [ytmods.ga](https://ytmods.ga)
-3) [jiosaavn-api](https://jiosaavn-alpha.vercel.app/)
-4) [onepiece.ml](https://onepiece.ml)
-5) [cc gen](https://connectvip.online/en/)
-------------------------------------------  
 
 ### 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <div style="display-flex">
