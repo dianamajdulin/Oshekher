@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning Web Development
 
 ------------------------------------------
-[![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=Oshekher&layout=compact)](https://puritywashere.cf)
-------------------------------------------  
 
 ### 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <div style="display-flex">
@@ -23,3 +21,5 @@
 </div>&nbsp;
 &nbsp;
 &nbsp;
+
+------------------------------------------  
